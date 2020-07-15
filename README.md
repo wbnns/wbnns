@@ -1,3 +1,3 @@
 ### Hello, my name is Will.
 
-![matrix](https://github.com/wbnns/wbnns/blob/master/matrix.gif "matrix")
+![stars](https://github.com/wbnns/wbnns/blob/master/stars.webp "stars")
