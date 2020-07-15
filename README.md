@@ -1,7 +1,7 @@
-<table><tr><td valign="top" width="33%">
+<table border="0"><tr><td width="14%">
 &nbsp;
-</td><td valign="top" width="34%">
+</td><td width="72%">
 <a href="https://willbinns.org"><img src="https://github.com/wbnns/wbnns/raw/master/future.gif"></a>
-</td><td valign="top" width="33%">
+</td><td width="14%">
 &nbsp;
 </td></tr></table>
