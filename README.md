@@ -1,3 +1,3 @@
 ### Hello, my name is Will.
 
-![matrix](matrix.gif "matrix")
+![matrix](https://github.com/wbnns/wbnns/blob/master/matrix.gif "matrix")
