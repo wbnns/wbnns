@@ -1,1 +1,1 @@
-| &nbsp; | [!Future](https://github.com/wbnns/wbnns/raw/master/future.gif) | &nbsp;
+| Test | [!Future](https://github.com/wbnns/wbnns/raw/master/future.gif) | Test
