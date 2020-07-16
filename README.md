@@ -9,6 +9,6 @@
     <td width="2%"></td>
   </tr>
 </table>
-<small>
+<em>
   Pixel Artist: <a href="https://www.deviantart.com/valenberg">Valenberg</a>
-</small>
+</em>
