@@ -9,3 +9,4 @@
     <td width="2%"></td>
   </tr>
 </table>
+<small>Pixel Artist: [Valenberg](https://www.deviantart.com/valenberg)</small>
