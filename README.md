@@ -19,7 +19,7 @@
 
 ## About
 
-<img src="https://github-readme-stats.vercel.app/api?username=wbnns&count_private=true&include_all_commits=true&hide_rank=true&theme=graywhite&show_icons=true&disable_animations=true&hide=stars&custom_title=Stats" alt="Will Binns's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=wbnns&count_private=true&include_all_commits=true&hide_rank=true&theme=graywhite&show_icons=true&disable_animations=true&hide=stars&custom_title=Stats" width="100%" alt="Will Binns's GitHub Stats" />
 
 **My name is Will**, I work in DeFi. I'm an entrepreneur, product manager and full stack
 developer.
