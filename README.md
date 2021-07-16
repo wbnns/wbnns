@@ -15,7 +15,7 @@
   </tr>
 </table>
 
-<img src="https://github-readme-stats.vercel.app/api?username=wbnns&count_private=true&include_all_commits=true&hide_rank=true&theme=graywhite&disable_animations=true&custom_title=Stats" align="right" width="320" alt="Will Binns's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=wbnns&count_private=true&include_all_commits=true&hide_rank=true&theme=graywhite&disable_animations=true&hide=stars&custom_title=Stats" align="right" width="320" alt="Will Binns's GitHub Stats" />
 
 # Hello
 
