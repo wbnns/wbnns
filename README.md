@@ -1,3 +1,5 @@
+# Hello 👋
+
 <table align="center">
   <tr>
     <td width="100%" align="center">
@@ -15,14 +17,14 @@
   </tr>
 </table>
 
-# Hello 👋
+## About
 
 <img src="https://github-readme-stats.vercel.app/api?username=wbnns&count_private=true&include_all_commits=true&hide_rank=true&theme=graywhite&show_icons=true&disable_animations=true&hide=stars&custom_title=Stats" align="right" width="320" alt="Will Binns's GitHub Stats" />
 
 **I'm Will**, I work in DeFi. I'm an entrepreneur, product manager and full stack
 developer.
 
-+ [About](https://about.willbinns.org/)
++ [CV](https://about.willbinns.org/)
 + [Blog](https://willbinns.org)
 + [Telegram](https://t.me/wbnns)
 + [Twitter](https://twitter.com/wbnns)
