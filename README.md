@@ -1,7 +1,7 @@
 <table align="center">
   <tr>
     <td width="100%" align="center">
-      <a href="https://willbinns.org/">
+      <a href="https://about.willbinns.org/">
         <img src="https://github.com/wbnns/wbnns/raw/master/future.gif">
       </a>
     </td>
