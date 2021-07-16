@@ -10,7 +10,9 @@
     <td width="2%"></td>
   </tr>
   <tr>
-    <td width="100%" align="right">
+    <td width="6%"></td>
+    <td width="6%"></td>
+    <td width="88%" align="right">
       <em>
         Pixel Artist: <a href="https://www.deviantart.com/valenberg">Valenberg</a>
       </em>
