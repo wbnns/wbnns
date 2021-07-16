@@ -1,18 +1,14 @@
 # Hello 👋
 <table align="center">
   <tr>
-    <td width="2%"></td>
-    <td width="96%">
+    <td width="100%" align="center">
       <a href="https://willbinns.org/">
         <img src="https://github.com/wbnns/wbnns/raw/master/future.gif">
       </a>
     </td>
-    <td width="2%"></td>
   </tr>
   <tr>
-    <td width="6%"></td>
-    <td width="6%"></td>
-    <td width="88%" align="right">
+    <td width="100%" align="right">
       <em>
         Pixel Artist: <a href="https://www.deviantart.com/valenberg">Valenberg</a>
       </em>
