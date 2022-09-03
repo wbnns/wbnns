@@ -1,3 +1,4 @@
+# [Changelog](https://github.com/wbnns/changelog/)
 <table align="center">
   <tr>
     <td width="100%" align="center">
@@ -12,12 +13,3 @@
     </td>
   </tr>
 </table>
-
-# Changelog
-
-## 03-09-22
-
-+ Test 1
-+ Test 2
-
-[More](https://github.com/wbnns/wbnns/tree/master/changelog/README.md)
