@@ -15,10 +15,4 @@
 
 # Changelog
 
-## 03.09.2022
-
-+ Hello world
-
-<hr>
-
-[Archives](https://github.com/wbnns/wbnns/tree/master/archives)
+https://github.com/wbnns/changelog
