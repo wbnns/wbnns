@@ -1,9 +1,5 @@
 <table align="center">
   <tr>
-    <td width="100%" align="right">
-      Changelog: <a href="https://github.com/wbnns/changelog/">@wbnns</a>
-    </td>
-  <tr>
     <td width="100%" align="center">
       <a href="https://trek.io/">
         <img src="https://github.com/wbnns/wbnns/raw/master/hello.gif">
