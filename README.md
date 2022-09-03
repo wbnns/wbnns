@@ -12,5 +12,3 @@
     </td>
   </tr>
 </table>
-
-## [Changelog](https://github.com/wbnns/changelog)
