@@ -13,6 +13,4 @@
   </tr>
 </table>
 
-# Changelog
-
-https://github.com/wbnns/changelog
+# Changelog: https://github.com/wbnns/changelog
