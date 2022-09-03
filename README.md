@@ -1,4 +1,3 @@
-# [Changelog](https://github.com/wbnns/changelog/)
 <table align="center">
   <tr>
     <td width="100%" align="center">
