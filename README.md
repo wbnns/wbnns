@@ -19,6 +19,6 @@
 
 + Hello world
 
-==
+<hr>
 
 [Archives](https://github.com/wbnns/wbnns/tree/master/archives)
