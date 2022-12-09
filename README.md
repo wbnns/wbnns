@@ -1,4 +1,4 @@
-[About](#) [GnuPG](#) [Log](#) [Mastodon](#)
+[About](https://wbnns.com/) / [GnuPG](https://wbnns.com/wbnns.asc) / [Log](https://log.wbnns.com/) / [Mastodon](https://m.wbnns.com/@wbnns)
 <table align="center">
   <tr>
     <td width="100%" align="center">
