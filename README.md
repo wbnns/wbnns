@@ -1,4 +1,4 @@
-// [CV](https://wbnns.com/) &bull; [GPG](https://wbnns.com/wbnns.asc) &bull; [Log](https://log.wbnns.com/) &bull; <a rel="me" href="https://m.wbnns.com/@wbnns">Mastodon</a>
+// [CV](https://wbnns.com/) &bull; [GPG](https://wbnns.com/wbnns.asc) &bull; [Log](https://log.wbnns.com/) &bull; [Mastodon](https://m.wbnns.com/@wbnns)
 <table align="center">
   <tr>
     <td width="100%" align="center">
