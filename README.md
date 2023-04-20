@@ -1,4 +1,4 @@
-// [CV](https://wbnns.com/) &bull; [Telegram](https://t.me/wbnns) &bull; [Twitter](https://twitter.com/wbnns)
+// [CV](https://wbnns.com/) &bull; [Farcaster](https://warpcast.com/wbnns) &bull; [Telegram](https://t.me/wbnns) &bull; [Twitter](https://twitter.com/wbnns)
 <table align="center">
   <tr>
     <td width="100%" align="center">
