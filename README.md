@@ -1,4 +1,4 @@
-// [CV](https://wbnns.com/) &bull; [Farcaster](https://warpcast.com/wbnns) &bull; [Log](https://log.wbnns.com/) &bull; [Twitter](https://twitter.com/wbnns)
+// [CV](https://wbnns.com/) &bull; [Farcaster](https://warpcast.com/wbnns) &bull; [Log](https://log.wbnns.com/) &bull; [X](https://x.com/wbnns)
 <table align="center">
   <tr>
     <td width="100%" align="center">
