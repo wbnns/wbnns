@@ -275,3 +275,18 @@ users share and discover new products. Users submit products which are listed in
 a linear format by day. The site includes a comments system and a voting system
 similar to Hacker News or Reddit. The products with the most votes rise to the
 top of each day's list.
+
+### Technical
+
++ Frameworks: Bootstrap, Django, Flask, Gatsby, Hugo, Jekyll, Next.js, Rails, React,
+React Native, Wordpress
++ Languages: C++, CSS, HTML, Java, JavaScript, Python, Ruby, Solidity, SQL,
+  TypeScript
++ Methodologies: Agile, App Store Optimization (ASO), Cross-Browser Compatibility, Scrum, Search Engine
+Optimization (SEO), Test-Driven Development (TDD)
++ Platforms / Tools: Amazon Web Services, App Store, Asana, Atlassian,
+  BrowserStack, Buffer, cPanel, DigitalOcean, Docker, Drift, G Suite, GitHub,
+GitLab, Google Analytics, Google Webmaster Tools, GNU Mailman, HackerOne,
+Hootsuite, Intercom, Jenkins, MailChimp, Mandrill, Mailgun, Mixpanel,
+Optimizely, PagerDuty, phpMyAdmin, Play Store, Salesforce, Segment, SendGrid,
+Sensor Tower, Sentry, Sift Science
