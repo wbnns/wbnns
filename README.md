@@ -1,4 +1,4 @@
-## Hello, my name's Will 👋
+## Hello, I'm Will 👋
 <table align="center">
   <tr>
     <td width="100%" align="center">
