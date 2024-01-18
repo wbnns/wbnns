@@ -1,4 +1,4 @@
-// Hello, my name's Will, I'm working on @base-org and am a full stack developer
+// Hello, my name's Will, I'm working on @base-org and am a full stack developer <br/>
 // [CV](https://wbnns.com/) &bull; [Farcaster](https://warpcast.com/wbnns) &bull; [Log](https://log.wbnns.com/) &bull; [X](https://x.com/wbnns)
 <table align="center">
   <tr>
