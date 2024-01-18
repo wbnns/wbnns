@@ -15,7 +15,7 @@
 </table>
 <br/>
 
-I'm working on <a href="https://base.org/">Base</a> and am a full stack developer.
+Below are some things I've worked on.
 
 ### Books
 
