@@ -1,4 +1,4 @@
-## Hello, I'm Will 👋
+## Hello, my name's Will 👋
 <table align="center">
   <tr>
     <td width="100%" align="center">
@@ -110,166 +110,167 @@ HTML, CSS and JavaScript for user interfacing.
 
 ### Clients
 
-+ 21 / Earn: Based in Silicon Valley, California, and founded in 2013, Earn.com (formerly
++ [21 / Earn](https://earn.com/): Based in Silicon Valley, California, and founded in 2013, Earn.com (formerly
 known as 21), enables micropayments with bitcoin-payable APIs, and microtasks
 between users via their paid messaging platform. In the past, the company has
 also experimented with embeddable mining chips that can be integrated into
 internet-connected devices, supporting a continuous stream of digital currency
 for use in a wide variety of applications.
  
-+ Accenture: Accenture is a multinational professional services company that provides
++ [Accenture](https://accenture.com/): Accenture is a multinational professional services company that provides
 services in strategy, consulting, digital, and technology-related operations.
  
-+ Alameda Research: Alameda Research is a quantitative cryptocurrency trading firm that provides
++ [Alameda Research](https://www.alameda-research.com/): Alameda Research is a quantitative cryptocurrency trading firm that provides
 liquidity in cryptocurrency and digital assets markets.
  
-+ ALEX: ALEX is a decentralized platform for projects on Stacks to access community
++ [ALEX](https://www.alexgo.io/): ALEX is a decentralized platform for projects on Stacks to access community
 funding and the resources of the ecosystem.
  
-+ Arkadiko: Arkadiko is a decentralized, non-custodial liquidity protocol where users can
++ [Arkadiko](https://arkadiko.finance/): Arkadiko is a decentralized, non-custodial liquidity protocol where users can
 collateralize their STX tokens and borrow a stablecoin called USDA.
  
-+ Ava Labs: AVA is a next-generation blockchain platform with revolutionary scalability,
++ [Ava Labs](https://www.avalabs.org/): AVA is a next-generation blockchain platform with revolutionary scalability,
 decentralization, security, and flexibility.
  
-+ Binance: Binance is a global cryptocurrency exchange that provides a platform for trading
++ [Binance](https://binance.com/): Binance is a global cryptocurrency exchange that provides a platform for trading
 more than 100 cryptocurrencies.
  
-+ BitPesa: BitPesa is an online payment platform launched in 2013. It's headquartered in
++ [BitPesa](https://bitpesa.co/): BitPesa is an online payment platform launched in 2013. It's headquartered in
 Nairobi, Kenya with office operations in Lagos, London, Luxembourg and Dakar.
 BitPesa offers real-time settlement at wholesale FX rates to frontier and
 emerging markets.
  
-+ Bitvavo: Bitvavo is a large digital asset exchange in the Netherlands and a leading
++ [Bitvavo](https://bitvavo.com/): Bitvavo is a large digital asset exchange in the Netherlands and a leading
 European cryptocurrency exchange.
  
-+ Blockchain: Blockchain is a cryptocurrency wallet and block explorer service. Launched in
++ [Blockchain](https://blockchain.com/): Blockchain is a cryptocurrency wallet and block explorer service. Launched in
 August 2011, the service provides wallets, data on recent transactions, mined
 blocks in the bitcoin blockchain, charts on the bitcoin economy, and statistics
 and resources for developers. Information from and links to the website are
 common in media coverage and in bitcoin forums.
  
-+ BTC Markets: BTC Markets is a large cryptocurrency exchange based in Melbourne, Australia.
++ [BTC Markets](https://www.btcmarkets.net/): BTC Markets is a large cryptocurrency exchange based in Melbourne, Australia.
  
-+ Canaan Creative: Canaan Creative, known simply as Canaan, is a computer hardware manufacturer
++ [Canaan Creative](https://canaan.io/): Canaan Creative, known simply as Canaan, is a computer hardware manufacturer
 with specific integrated circuit design skills based in Beijing, China founded
 in 2013. Canaan invented the first Bitcoin mining processors and computers and
 leads bitcoin hardware mining by using advanced ASIC semiconductor manufacturing
 processes. Canaan is known for its quality hardware paired with Open Source
 Software.
  
-+ Celo Foundation: The Celo Foundation is a non-profit organization based in the US that supports
++ [Celo Foundation](https://celo.org/): The Celo Foundation is a non-profit organization based in the US that supports
 the growth and development of the open-source Celo Platform. Guided by the Celo
 community tenets, the Foundation contributes to education, technical research,
 environmental health, community engagement, and ecosystem outreach—activities
 that support and encourage an inclusive financial system that creates the
 conditions for prosperity for everyone.
  
-+ Chainlink Labs: Chainlink is a decentralized blockchain oracle network built on Ethereum.
++ [Chainlink Labs](https://chainlinklabs.com/): Chainlink is a decentralized blockchain oracle network built on Ethereum.
  
-+ Cisco: Cisco is an American multinational technology conglomerate headquartered in San
++ [Cisco](https://cisco.com/): Cisco is an American multinational technology conglomerate headquartered in San
 Jose, California, in the center of Silicon Valley, that develops, manufactures
 and sells networking hardware, telecommunications equipment and other
 high-technology services and products.
  
-+ Code To Inspire: Code To Inspire (CTI) uses technology education and outreach to provide Afghan
++ [Code To Inspire](https://codetoinspire.org/): Code To Inspire (CTI) uses technology education and outreach to provide Afghan
 women with leverage in their fight for social, political, and economic equality.
 CTI helps build skills and infrastructure for women to compete in the global
 tech market, empowering them financially and socially. The CTI model is a
 scalable approach to tackle gender inequality and poverty.
  
-+ Coinbase: Founded in June of 2012, Coinbase is a digital currency wallet and platform
++ [Coinbase](https://coinbase.com/): Founded in June of 2012, Coinbase is a digital currency wallet and platform
 where merchants and consumers can transact with new digital currencies like
 bitcoin, ethereum, and litecoin. Coinbase strives to make digital currencies
 easy to use and to be one of the world's leading platforms for digital currency
 integration.
  
-+ Coinmetro: Coinmetro is an EU licensed exchange and holds active registrations with
++ [Coinmetro](https://coinmetro.com/): Coinmetro is an EU licensed exchange and holds active registrations with
 regulators in the USA and Australia.
  
-+ Deloitte: Deloitte has approximately 286,000 professionals at member firms delivering
++ [Deloitte](https://deloitte.com/): Deloitte has approximately 286,000 professionals at member firms delivering
 services in audit & assurance, tax, consulting, financial advisory, risk
 advisory, and related services in more than 150 countries and territories.
  
-+ Eesti 2.0: Eesti 2.0 is a non-profit organization that aims to inspire the next generation
++ [Eesti 2.0](http://eesti2.ee/): Eesti 2.0 is a non-profit organization that aims to inspire the next generation
 of Estonians to choose a future in technology by providing students with
 different technological tools and offering them ideas to apply these
 technologies. Eesti focuses on elementary, middle and high school students
 across Estonia. Its goal is to nourish creative thinking across disciplines and
 connect science based theories to real life phenomena and events.
  
-+ Flow: Flow is a blockchain built for the next generation of apps, games, and the
++ [Flow](https://www.onflow.org/): Flow is a blockchain built for the next generation of apps, games, and the
 digital assets that power them.
  
-+ FTX: FTX is a cryptocurrency exchange built by traders, for traders. FTX offers
++ [FTX](https://ftx.com/): FTX is a cryptocurrency exchange built by traders, for traders. FTX offers
 innovative products including industry-first derivatives, options, volatility
 products and leveraged tokens.
  
-+ GiveDirectly: GiveDirectly is a nonprofit organization operating in East Africa that helps
++ [GiveDirectly](https://givedirectly.org/): GiveDirectly is a nonprofit organization operating in East Africa that helps
 families living in extreme poverty by making unconditional cash transfers to
 them via mobile phone. GiveDirectly transfers funds to people in Kenya, Uganda,
 and Rwanda.
  
-+ GSR: GSR is a crypto market maker and ecosystem partner.
++ [GSR](https://www.gsr.io/): GSR is a crypto market maker and ecosystem partner.
  
-+ Hex Trust: Hex Trust is a fully licensed and insured provider of bank-grade custody and
++ [Hex Trust](https://hextrust.com/): Hex Trust is a fully licensed and insured provider of bank-grade custody and
 associated services for digital assets in Asia.
  
-+ Hiro: Hiro makes tools for developers to build this future with Stacks, one of the
++ [Hiro](https://hiro.so/): Hiro makes tools for developers to build this future with Stacks, one of the
 largest and fastest growing Web3 projects on Bitcoin.
  
-+ Kadena: Kadena was founded on the idea that blockchain could revolutionize how the world
++ [Kadena](https://kadena.io/): Kadena was founded on the idea that blockchain could revolutionize how the world
 interacts and transacts.
  
-+ Keyrock: Keyrock develops crypto asset financial infrastructure. It uses in-house
++ [Keyrock](https://keyrock.eu/): Keyrock develops crypto asset financial infrastructure. It uses in-house
 algorithmic trading bots and high frequency trading infrastructure to supply
 market making and liquidity services to the cryptocurrency ecosystem.
  
-+ Ledger Prime: LedgerPrime is a quantitative digital asset investment firm.
++ [Ledger Prime](https://ledgerprime.com/): LedgerPrime is a quantitative digital asset investment firm.
  
-+ NovaDAX: NovaDAX is a global cryptocurrency exchange based in Brazil.
++ [NovaDAX](https://www.novadax.com/): NovaDAX is a global cryptocurrency exchange based in Brazil.
  
-+ Okcoin: Okcoin is a globally licensed exchange with offices in San Francisco, Miami,
++ [Okcoin](https://okcoin.com/): Okcoin is a globally licensed exchange with offices in San Francisco, Miami,
 Malta, Hong Kong, Singapore and Japan.
  
-+ Parity: Parity is a core blockchain infrastructure company, creating an open-source
++ [Parity](https://www.parity.io/): Parity is a core blockchain infrastructure company, creating an open-source
 creative commons that will enable people to create better institutions through
 technology.
  
-+ Rain: Rain is a licensed middle eastern cryptocurrency exchange, primarily servicing
++ [Rain](https://www.rain.bh/): Rain is a licensed middle eastern cryptocurrency exchange, primarily servicing
 the countries of Bahrain, Saudi Arabia, UAE, Kuwait, and Oman.
  
-+ Ripple: Ripple is an enterprise blockchain company with products in commercial use by
++ [Ripple](https://www.ripple.com/): Ripple is an enterprise blockchain company with products in commercial use by
 hundreds of customers across 55+ countries.
  
-+ SIREN: SIREN is a distributed protocol for creating, trading, and redeeming
++ [SIREN](https://www.sirenmarkets.com/): SIREN is a distributed protocol for creating, trading, and redeeming
 fully-collateralized options contracts for any ERC-20 token on Ethereum.
  
-+ Solana Foundation: The Solana Foundation is a non-profit organization headquartered in Zug,
++ [Solana Foundation](https://solana.foundation/): The Solana Foundation is a non-profit organization headquartered in Zug,
 Switzerland, dedicated to the decentralization, growth, and security of the
 Solana network.
  
-+ Stacks Foundation: The Stacks Foundation supports the mission of a user owned internet through
++ [Stacks Foundation](https://www.stacks.org/): The Stacks Foundation supports the mission of a user owned internet through
 Stacks-related governance, research and development, education, and grants.
  
-+ SushiSwap: SushiSwap is an open source exchange that manages yield farming and token swaps
++ [SushiSwap](https://www.sushi.com/): SushiSwap is an open source exchange that manages yield farming and token swaps
 by using the use of an Automated Market Maker (AMM) smart contract.
  
-+ Tokensoft: Tokensoft helps issuers of SEC registered blockchain securities get to market.
++ [Tokensoft](https://www.tokensoft.io/): Tokensoft helps issuers of SEC registered blockchain securities get to market.
  
-+ Trust Machines: The mission of Trust Machines is to grow the Bitcoin economy.
++ [Trust Machines](https://www.trustmachines.co/): The mission of Trust Machines is to grow the Bitcoin economy.
  
-+ Wintermute: Wintermute is a global algorithmic market maker in digital assets.
++ [Wintermute](https://www.wintermute.com/): Wintermute is a global algorithmic market maker in digital assets.
  
-+ Wrapped: Wrapped enables digital assets to connect different networks and blockchains
++ [Wrapped](https://wrapped.com/): Wrapped enables digital assets to connect different networks and blockchains
 beyond the ones they were originally deployed on.
 
 ### Awards
 
-+ Decrypt, 2023 Project of the Year (Base Team): Decrypt is a next-generation
++ [Decrypt](https://decrypt.co/210725/2023-story-of-the-year-war-on-crypto), 2023 Project of the Year (Base Team): Decrypt is a next-generation
 media company powered by AI & Web3.
  
-+ Product Hunt, 2018 Crypto Product of the Year (Earn Team): Product Hunt helps
++ [Product
+  Hunt](https://blog.producthunt.com/golden-kitty-awards-winners-7c2628e5f429), 2018 Crypto Product of the Year (Earn Team): Product Hunt helps
 users share and discover new products. Users submit products which are listed in
 a linear format by day. The site includes a comments system and a voting system
 similar to Hacker News or Reddit. The products with the most votes rise to the
