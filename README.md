@@ -13,9 +13,8 @@
     </td>
   </tr>
 </table>
-<br/>
 
-## Background
+## My Background
 
 ### Books
 
