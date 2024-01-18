@@ -1,4 +1,4 @@
-## Hello, my name's Will
+## Hello, my name's Will.
 <table align="center">
   <tr>
     <td width="100%" align="center">
@@ -38,3 +38,16 @@ snippets illustrating the key concepts.
 + [Mastering Ethereum](https://github.com/ethereumbook/ethereumbook), Editor:  Mastering Ethereum by Andreas Antonopoulos is a
   book for developers, offering a guide to the operation and use of the Ethereum
 Open Blockchain.
+
+### Teaching
+
++ [Stanford University](https://crypto.stanford.edu/cs251_fall15/cs251p.html), Bitcoin Engineering (CS251P): CS251 tackles the applied
+  side of Bitcoin with a focus on practical projects. Students go through a
+series of Bitcoin-based labs, each of which are focused on a single practical
+problem that they'd encounter while trying to use Bitcoin. Over the course of
+going through these labs, students learn how to use Bitcoin mining chips in
+conjunction with Bitcoin-based software to build micropayments-based
+applications that work with an internet-connected device. The goal of the class
+it to help students gain the practical knowledge required to build fairly
+sophisticated hardware and software applications that require intimate knowledge
+of the Bitcoin protocol.
