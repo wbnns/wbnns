@@ -263,3 +263,14 @@ by using the use of an Automated Market Maker (AMM) smart contract.
  
 + Wrapped: Wrapped enables digital assets to connect different networks and blockchains
 beyond the ones they were originally deployed on.
+
+### Awards
+
++ Decrypt, 2023 Project of the Year (Base Team): Decrypt is a next-generation
+media company powered by AI & Web3.
+ 
++ Product Hunt, 2018 Crypto Product of the Year (Earn Team): Product Hunt helps
+users share and discover new products. Users submit products which are listed in
+a linear format by day. The site includes a comments system and a voting system
+similar to Hacker News or Reddit. The products with the most votes rise to the
+top of each day's list.
