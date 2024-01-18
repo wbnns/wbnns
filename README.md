@@ -1,4 +1,6 @@
+## Hello, my name's Will
 // [CV](https://wbnns.com/) &bull; [Farcaster](https://warpcast.com/wbnns) &bull; [Log](https://log.wbnns.com/) &bull; [X](https://x.com/wbnns)
+I'm currently working on @base-org and am a full stack developer.
 <table align="center">
   <tr>
     <td width="100%" align="center">
@@ -14,6 +16,3 @@
   </tr>
 </table>
 
-## Hello, my name's Will
-
-I'm currently working on @base-org and am a full stack developer.
