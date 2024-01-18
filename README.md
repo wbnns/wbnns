@@ -285,8 +285,8 @@ React Native, Wordpress
 + Methodologies: Agile, App Store Optimization (ASO), Cross-Browser Compatibility, Scrum, Search Engine
 Optimization (SEO), Test-Driven Development (TDD)
 + Platforms / Tools: Amazon Web Services, App Store, Asana, Atlassian,
-  BrowserStack, Buffer, cPanel, DigitalOcean, Discord, Docker, Drift, G Suite, GitHub,
-GitLab, Google Analytics, Google Webmaster Tools, GNU Mailman, HackerOne,
+  BrowserStack, Buffer, cPanel, DigitalOcean, Discord, Docker, Drift, GitHub,
+GitLab, Google Analytics, Google Cloud, Google Webmaster Tools, Google Workspace, GNU Mailman, HackerOne,
 Hootsuite, Intercom, Jenkins, MailChimp, Mandrill, Mailgun, Mixpanel,
 Optimizely, PagerDuty, phpMyAdmin, Play Store, Salesforce, Segment, SendGrid,
 Sensor Tower, Sentry, Sift Science, Slack
