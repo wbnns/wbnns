@@ -280,10 +280,13 @@ top of each day's list.
 
 + **Frameworks:** Bootstrap, Django, Flask, Gatsby, Hugo, Jekyll, Next.js, Rails, React,
 React Native, Wordpress
+
 + **Languages:** C++, CSS, HTML, Java, JavaScript, Python, Ruby, Solidity, SQL,
   TypeScript
+
 + **Methodologies:** Agile, App Store Optimization (ASO), Cross-Browser Compatibility, Scrum, Search Engine
 Optimization (SEO), Test-Driven Development (TDD)
+
 + **Platforms/Tools:** Amazon Web Services, App Store, Asana, Atlassian,
   BrowserStack, Buffer, cPanel, DigitalOcean, Discord, Docker, Drift, GitHub,
 GitLab, Google Analytics, Google Cloud, Google Webmaster Tools, Google Workspace, GNU Mailman, HackerOne,
