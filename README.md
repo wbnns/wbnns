@@ -225,7 +225,7 @@ interacts and transacts.
 algorithmic trading bots and high frequency trading infrastructure to supply
 market making and liquidity services to the cryptocurrency ecosystem.
  
-+ [Ledger Prime](https://ledgerprime.com/): LedgerPrime is a quantitative digital asset investment firm.
++ [Ledger Prime](https://ledgerprime.com/): Ledger Prime is a quantitative digital asset investment firm.
  
 + [NovaDAX](https://www.novadax.com/): NovaDAX is a global cryptocurrency exchange based in Brazil.
  
