@@ -1,4 +1,4 @@
-## Hello, I'm Will, I build things
+## Hello, I'm Will
 <table align="center">
   <tr>
     <td width="100%" align="center">
