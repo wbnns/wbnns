@@ -105,9 +105,6 @@ for use in a wide variety of applications.
 + [Accenture](https://accenture.com/): Accenture is a multinational professional services company that provides
 services in strategy, consulting, digital, and technology-related operations.
  
-+ [Alameda Research](https://www.alameda-research.com/): Alameda Research is a quantitative cryptocurrency trading firm that provides
-liquidity in cryptocurrency and digital assets markets.
- 
 + [ALEX](https://www.alexgo.io/): ALEX is a decentralized platform for projects on Stacks to access community
 funding and the resources of the ecosystem.
  
@@ -185,10 +182,6 @@ connect science based theories to real life phenomena and events.
  
 + [Flow](https://www.onflow.org/): Flow is a blockchain built for the next generation of apps, games, and the
 digital assets that power them.
- 
-+ [FTX](https://ftx.com/): FTX is a cryptocurrency exchange built by traders, for traders. FTX offers
-innovative products including industry-first derivatives, options, volatility
-products and leveraged tokens.
  
 + [GiveDirectly](https://givedirectly.org/): GiveDirectly is a nonprofit organization operating in East Africa that helps
 families living in extreme poverty by making unconditional cash transfers to
